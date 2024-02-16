@@ -1,0 +1,20 @@
+Rossi 24 26
+Bianchi 21 20
+Verdi 25 21
+Avanzini 18 18
+Neri 28 30
+
+S
+Neri
+S
+Avanzini
+S
+Rossi
+S
+Bianchi
+S
+Gialli
+S
+Verdi
+SS
+Q

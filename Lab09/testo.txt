@@ -1,0 +1,24 @@
+Esercizio 4
+
+
+Realizzare un programma che:
+non scriva alcun dato sui flussi standard, tranne quanto esplicitamente indicato in queste specifiche
+
+legga il flusso di ingresso riga per riga, fino alla sua chiusura
+
+visualizzi sull'uscita standard le singole righe del testo, ordinate in base al numero crescente di parole 
+contenute (cioè per prime vengono visualizzate le righe prive di parole, poi le righe con una sola parola, 
+poi quelle con due parole, e così via)
+
+a parità di numero di parole, vanno visualizzate per prime le righe aventi un numero minore di caratteri; 
+in caso di parità anche nel numero di caratteri, vanno visualizzate per prime le righe che precedono le 
+altre nell'ordine lessicografico
+
+eventuali righe identiche vanno visualizzate una volta sola (ad esempio, è probabile che la visualizzazione 
+inizi con una riga vuota, se nel testo c'è almeno una riga priva di caratteri...)
+
+termina la propria esecuzione
+
+Nella valutazione della prova si terrà conto dell'efficienza temporale asintotica della soluzione proposta.
+
+Soluzione9_4
